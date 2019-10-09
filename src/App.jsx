@@ -4,6 +4,11 @@ import {BrowserRouter as Router, Route, Link} from "react-router-dom";
 
 // https://material-ui.com/getting-started/usage/
 
+// https://github.com/HackerNews/API
+// https://hacker-news.firebaseio.com/v0/item/8863.json?print=pretty
+// https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty
+
+
 const App = ({title}) =>
     <Router>
         <Button>
